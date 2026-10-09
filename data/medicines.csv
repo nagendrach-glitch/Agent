@@ -1,0 +1,9 @@
+Disease,Medicine,Usage,Warning
+
+Fever,Paracetamol,Used to reduce fever and pain,Follow recommended dosage
+
+Dengue,Paracetamol,Controls fever,Avoid aspirin unless advised by doctor
+
+Malaria,Artemisinin Combination Therapy,Treats malaria,Requires medical supervision
+
+Typhoid,Antibiotics,Treat bacterial infection,Doctor prescription required 

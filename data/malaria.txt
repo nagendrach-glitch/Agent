@@ -1,0 +1,16 @@
+Malaria Medical Information
+
+Malaria is a life-threatening disease caused by Plasmodium parasites
+transmitted through infected mosquitoes.
+
+Symptoms:
+Fever, chills, sweating, headache, nausea, vomiting,
+body pain, and weakness.
+
+Treatment:
+Malaria is treated using antimalarial medicines.
+Treatment depends on parasite type and disease severity.
+
+Prevention:
+Use mosquito nets, insect repellents,
+and preventive medicines in high risk areas. 

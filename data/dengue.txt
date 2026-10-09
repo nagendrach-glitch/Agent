@@ -1,0 +1,19 @@
+Dengue Fever Medical Information
+
+Dengue is a mosquito-borne viral infection caused by dengue virus.
+
+Symptoms:
+High fever, severe headache, pain behind eyes, muscle pain, joint pain,
+skin rash, nausea, vomiting, and fatigue.
+
+Warning signs:
+Severe abdominal pain, persistent vomiting, bleeding gums,
+difficulty breathing.
+
+Treatment:
+There is no specific antiviral medicine for dengue.
+Treatment focuses on fluid replacement, rest, and fever control.
+
+Prevention:
+Avoid mosquito bites, remove stagnant water,
+and use mosquito protection methods. 

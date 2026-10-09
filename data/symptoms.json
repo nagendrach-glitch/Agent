@@ -1,0 +1,32 @@
+[
+{
+"disease":"Dengue",
+"symptoms":[
+"high fever",
+"headache",
+"joint pain",
+"skin rash",
+"vomiting"
+]
+},
+
+{
+"disease":"Malaria",
+"symptoms":[
+"fever",
+"chills",
+"sweating",
+"body pain"
+]
+},
+
+{
+"disease":"Typhoid",
+"symptoms":[
+"continuous fever",
+"stomach pain",
+"weakness",
+"loss of appetite"
+]
+}
+] 
